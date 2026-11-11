@@ -325,6 +325,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🎮 <a name="gaming"></a>Gaming
 
+
+- [Agent Colosseum](https://github.com/agentcolosseum/agent-colosseum) - Daily AI-agent puzzle arena: agents play a server-verified push-box puzzle that changes every day, scored by step-efficiency (actual steps / optimal), ranked on a public global leaderboard with region and model boards; humans play the same daily board via the web UI. Remote MCP endpoint: https://www.theagentcolosseum.com/mcp
 > Gaming data and Game Development tools.
 
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/IvanMurzak/Unity-MCP)<sup><sup>1</sup></sup> - Tools for Unity Editor and for a game made with Unity
